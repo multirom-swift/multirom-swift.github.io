@@ -1,0 +1,44 @@
+{
+	"status": "ok",
+	"date": "2017-01-13",
+	"commands": "",
+	"gpg": false,
+	"devices": [
+		{
+			"files": [
+				{
+					"url": "https://multirom-swift.github.io/installer/multirom-20170113-v33-UNOFFICIAL-crackling.zip",
+					"version": "33",
+					"type": "multirom",
+					"size": "4437356",
+					"md5": "39ffb174af4cb5088d0fd12242d54a82"
+				},
+				{
+					"url": "https://multirom-swift.github.io/recovery/TWRP-multirom-20170113-crackling.img",
+					"version": "mrom20170113-00",
+					"type": "recovery",
+					"size": "18950144",
+					"md5": "377d4fd1f3d99b3a70148c879115bcca"
+				},
+				{
+					"url": "https://multirom-swift.github.io/uninstaller/multirom_uninstaller.zip",
+					"version": "1",
+					"type": "uninstaller",
+					"size": "1706450",
+					"md5": "3c6b9199f316940d88f925a2b8363b79"
+				}
+			],
+			"changelogs": [
+				{
+					"url": "https://multirom-swift.github.io/changelog/changelog_multirom.txt",
+					"name": "MultiROM"
+				},
+				{
+					"url": "https://multirom-swift.github.io/changelog/changelog_recovery.txt",
+					"name": "Recovery"
+				}
+			],
+			"name": "crackling"
+		}
+	]
+}
