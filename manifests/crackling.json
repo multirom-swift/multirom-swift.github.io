@@ -1,17 +1,17 @@
 {
 	"status": "ok",
-	"date": "2017-01-25",
+	"date": "2017-02-09",
 	"commands": "",
 	"gpg": false,
 	"devices": [
 		{
 			"files": [
 				{
-					"url": "https://multirom-swift.github.io/installer/multirom-20170125-v33a-UNOFFICIAL-crackling.zip",
-					"version": "33a",
+					"url": "https://multirom-swift.github.io/installer/multirom-20170208-v33b-UNOFFICIAL-crackling.zip",
+					"version": "33b",
 					"type": "multirom",
-					"size": "4437354",
-					"md5": "a8dfbe90728d43d52b8c2180928d648e"
+					"size": "4437334",
+					"md5": "ae17ba697e12a0bb6e9a73c1c6d348d8"
 				},
 				{
 					"url": "https://multirom-swift.github.io/recovery/TWRP-multirom-20170125-crackling.img",
